@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Encrypt-External-Hard-Drive-Windows-10-11/sitemap.xml
